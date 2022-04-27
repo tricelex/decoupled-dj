@@ -1,0 +1,15 @@
+-r ./base.txt
+
+
+asgiref==3.5.0
+black==22.3.0
+click==8.1.2
+django-extensions==3.1.5
+h11==0.13.0
+mypy-extensions==0.4.3
+pathspec==0.9.0
+platformdirs==2.5.2
+sqlparse==0.4.2
+tomli==2.0.1
+typing_extensions==4.2.0
+
